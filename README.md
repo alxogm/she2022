@@ -10,7 +10,7 @@ En este taller haremos una introducción al uso de redes neuronales en problemas
 
 Atacaremos un ejemplo sencillo de clasificación de imágenes, 
 y un ejemplo de clasificación de espectros para la detección de supernovas con el experimento DESI (Dark Energy Spectroscopic Instrument)
-utilizando uno de los cuadernos de trabajo de DESI High https://github.com/michaelJwilson/desihigh/blob/main/SupernovaeBrain.ipynb
+  utilizando uno de los cuadernos de trabajo de DESI High [SupernovaeBrain](https://github.com/michaelJwilson/desihigh/blob/main/Espanol/SupernovaeBrain_es.ipynb)
 
 La duración total del taller será de 5 horas. 
 
