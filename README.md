@@ -14,3 +14,5 @@ y un ejemplo de clasificación de espectros para la detección de supernovas con
 
 La duración total del taller será de 5 horas. 
 
+
+Actividad: Copia la siguiente carpeta de Drive, en tu propio espacio en Drive https://drive.google.com/drive/folders/1NmgbV7b4_mIIBJSs6OtLZYs2dmH7j0Ym?usp=sharing
